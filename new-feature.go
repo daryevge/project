@@ -1,1 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
+content from git-kraken
